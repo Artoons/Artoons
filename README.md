@@ -1,4 +1,4 @@
-Credits - Artoons Official
+By Artoons Official
 
 <!---
 Artoons/Artoons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
